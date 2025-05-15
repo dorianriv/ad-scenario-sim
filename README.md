@@ -34,17 +34,17 @@
 
 <p><strong>Create a new user account named "John Smith" with the username "john_smith" and a temporary password.</strong></p>
 
-![ss1](https://github.com/user-attachments/assets/7d1f9a89-11f9-4cdc-bcce-dcc551ac4a31)
+![ss1](https://github.com/user-attachments/assets/833c4eed-eac6-4f1c-9102-fa44b575d139)
 
 <p><strong>NOTE: Set the account to require a password change at the next login.</strong></p>
 
 <p><strong>Assign John to the "Developers" security group in AD.</strong></p>
 
-![ss2](https://github.com/user-attachments/assets/8b9a59a1-128b-4983-b327-afa8aebfdc1d)
+![ss2](https://github.com/user-attachments/assets/3089581d-2099-4fe0-be34-be1ede5232b8)
 
 <p><strong>Place John's account in the correct Organizational Unit (OU) for IT staff.</strong></p>
 
-![ss3](https://github.com/user-attachments/assets/5826ccdb-52b0-4f21-b6f8-b5cc9c78cd9a)
+![ss3](https://github.com/user-attachments/assets/dbc72b13-0725-46e5-8f08-aba9057e929b)
 
 <p><strong>After creating John's credentials, securely communicate the login information and temporary password to him, and document the date and time of account creation for auditing purposes.</strong></p>
 
@@ -60,11 +60,11 @@
 
 <p><strong>Locate Emily's user account and initiate a password reset.</strong></p>
 
-![ss4](https://github.com/user-attachments/assets/40bf1c1d-d907-448e-9509-67beb91b38ad)
+![ss4](https://github.com/user-attachments/assets/35a148b7-9c9d-4850-bb2e-76820e77c29c)
 
 <p><strong>Set a temporary password that complies with the company policy.</strong></p>
 
-![ss5](https://github.com/user-attachments/assets/75cc9822-87ba-4833-9e41-f7c5fa4e9f61)
+![ss5](https://github.com/user-attachments/assets/71b098f0-0a40-415d-b7d8-5d8ff97c6338)
 
 <p><strong>NOTE: Make sure to click the highlighted boxes to ensure the user’s account is unlocked and enable them to set their own password. </strong></p>
 
@@ -83,16 +83,15 @@
 
 <p><strong>Locate Sophia's user account and review her current group memberships.</strong></p>
 
-![ss6](https://github.com/user-attachments/assets/f681b2e9-25b5-4899-84a7-c8a0acb939d6)
+![ss6](https://github.com/user-attachments/assets/119c98f9-0095-4817-bddc-bb4c7c19ba5b)
 
 <p><strong>Remove Sophia from the "Systems Analysts" group and add her to the "IT Managers" group.</strong></p>
 
-![ss7](https://github.com/user-attachments/assets/96aa4c45-c466-41ab-bb3f-c2d7dd42883f)
+![ss7](https://github.com/user-attachments/assets/c49d4087-248c-498f-8223-581a3c3b196a)
 
 <p><strong>Confirm that Sophia now has the necessary access rights to project folders and relevant network resources.</strong></p>
 
-![ss8](https://github.com/user-attachments/assets/4d1ce11d-8e72-4104-a257-509b4104a328)
-
+![ss8](https://github.com/user-attachments/assets/01726ebb-95b6-4100-b30f-d0a2c8c8bcbb)
 
 - Communicate the group membership update to Sophia, along with any additional instructions or changes in access.
 - Document the whole process
@@ -112,19 +111,19 @@
 
 <p><strong>Locate Michael's user account and initiate the account deactivation process.</strong></p>
 
-![ss9](https://github.com/user-attachments/assets/e2a61095-3aad-475d-be5e-3fe96444c327)
+![ss9](https://github.com/user-attachments/assets/13a5aaed-2bbe-4747-88d0-2696c7fb65c9)
 
 <p><strong>Disable Michael's account to prevent further logins while retaining the account details for reference.</strong></p>
 
-![ss10](https://github.com/user-attachments/assets/8882fd03-cfcb-4cee-a907-7014741da28a)
+![ss10](https://github.com/user-attachments/assets/c6282cea-1d89-4710-9e95-46d8259bbd21)
 
 <p><strong>You may receive a confirmation dialog; click "Yes" to confirm the disabling of the user account.</strong></p>
 
-![ss11](https://github.com/user-attachments/assets/6dcc0444-b43b-4550-98e9-3519990cca8b)
+![ss11](https://github.com/user-attachments/assets/5436d20a-d5ca-4af5-87d4-067b363e6c5e)
 
 <p><strong>Remove Michael from all security groups to revoke his access to network resources.</strong></p>
 
-![ss12](https://github.com/user-attachments/assets/828ffb3c-bb70-4680-acc7-7bda271c1326)
+![ss12](https://github.com/user-attachments/assets/23850498-ff33-48f3-a905-7fc045d5036e)
 
 <p><strong> Confirm with other relevant departments (e.g., HR) that Michael's departure aligns with company policies and document the whole process.</strong></p>
 
@@ -146,16 +145,16 @@
 
 <p><strong>Create a new Organizational Unit named "International Sales" within the Sales department's organizational structure.</strong></p>
 
-![ss13](https://github.com/user-attachments/assets/6d51e309-4729-4ef8-9ed8-9aed556a716b)
+![ss13](https://github.com/user-attachments/assets/cafed72d-b512-4a21-97e2-008a3f34aed0)
 
 <p><strong>Move the user accounts of team members, such as Daniel Brooks and Ava Martinez, to the newly created OU.</strong></p>
 
-![ss14](https://github.com/user-attachments/assets/ecad21cd-ab6f-4b00-b8e1-2fbd99254bda)
+![ss14](https://github.com/user-attachments/assets/aa7a24a1-9296-4193-b9fd-07dffe4757e6)
 
 <p><strong> Verify that the users now appear under the "International Sales" OU in Active Directory.
 </strong></p>
 
-![ss15](https://github.com/user-attachments/assets/c71a9c14-664f-4ce6-bf6d-6586f57f68c6)
+![ss15](https://github.com/user-attachments/assets/2b25af87-abdc-4087-b581-88a65eec3596)
 
 <p><strong>Communicate the organizational change to relevant stakeholders, such as department heads and team leaders.
 </strong></p>
